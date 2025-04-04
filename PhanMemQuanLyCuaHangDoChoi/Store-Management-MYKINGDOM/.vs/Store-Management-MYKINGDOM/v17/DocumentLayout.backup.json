@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Downloads\\PhanMemQuanLyCuaHangDoChoi\\Store-Management-MYKINGDOM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4C6E52-C11C-4C32-884E-0C72DD98DC76}|Store-Management-Project\\Store-Management-Project.csproj|c:\\mac\\home\\downloads\\phanmemquanlycuahangdochoi\\store-management-mykingdom\\store-management-project\\frmaccountstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4C6E52-C11C-4C32-884E-0C72DD98DC76}|Store-Management-Project\\Store-Management-Project.csproj|solutionrelative:store-management-project\\frmaccountstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4C6E52-C11C-4C32-884E-0C72DD98DC76}|Store-Management-Project\\Store-Management-Project.csproj|c:\\mac\\home\\downloads\\phanmemquanlycuahangdochoi\\store-management-mykingdom\\store-management-project\\frmimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B4C6E52-C11C-4C32-884E-0C72DD98DC76}|Store-Management-Project\\Store-Management-Project.csproj|solutionrelative:store-management-project\\frmimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAccountStaff.cs [Design]",
+              "DocumentMoniker": "C:\\Mac\\Home\\Downloads\\PhanMemQuanLyCuaHangDoChoi\\Store-Management-MYKINGDOM\\Store-Management-Project\\frmAccountStaff.cs",
+              "RelativeDocumentMoniker": "Store-Management-Project\\frmAccountStaff.cs",
+              "ToolTip": "C:\\Mac\\Home\\Downloads\\PhanMemQuanLyCuaHangDoChoi\\Store-Management-MYKINGDOM\\Store-Management-Project\\frmAccountStaff.cs [Design]",
+              "RelativeToolTip": "Store-Management-Project\\frmAccountStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:53:18.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmImport.cs [Design]",
+              "DocumentMoniker": "C:\\Mac\\Home\\Downloads\\PhanMemQuanLyCuaHangDoChoi\\Store-Management-MYKINGDOM\\Store-Management-Project\\frmImport.cs",
+              "RelativeDocumentMoniker": "Store-Management-Project\\frmImport.cs",
+              "ToolTip": "C:\\Mac\\Home\\Downloads\\PhanMemQuanLyCuaHangDoChoi\\Store-Management-MYKINGDOM\\Store-Management-Project\\frmImport.cs [Design]",
+              "RelativeToolTip": "Store-Management-Project\\frmImport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:51:40.359Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
